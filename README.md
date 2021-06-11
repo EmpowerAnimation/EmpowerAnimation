@@ -8,8 +8,8 @@ Languages I'm Fluent In:
 - HTML/CSS/JS
 
 But, I do know the basics of: 
-- discord.js
-- node.js
+- Discord.js
+- Node.js
 - C
 
 ### About Small Fish Studios
