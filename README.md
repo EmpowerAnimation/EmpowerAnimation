@@ -11,3 +11,7 @@ But, I do know the basics of:
 - discord.js
 - node.js
 - C
+
+### About Small Fish Studios
+
+"Little Fish in a Big Pond."
